@@ -1,3 +1,20 @@
-https://github.com/XTLS/Xray-core/releases/latest/download/Xray-windows-64.zip
-https://github.com/p4gefau1t/trojan-go/releases/download/v0.8.2/trojan-go-windows-amd64.zip
-https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.3.2.0/Shadowsocks-4.3.2.146.zip
+主程序与插件地址：
+
+一、Qv2ray程序地址：
+    https://github.com/Qv2ray/Qv2ray        
+    https://qv2ray.net/getting-started/ 
+
+二、依赖核心v2ray-core：
+    https://github.com/v2fly/v2ray-core/releases
+
+三、依赖插件下载说明：
+    https://v2xtls.org/qv2ray下载及使用教程-v2ray-windows客户端-同时支持ss-ssr-v2ray-trojan/
+    Qv2ray Shadowsocks插件下载：https://github.com/Qv2ray/QvPlugin-SS/releases/
+    Qv2ray SSR插件下载：https://github.com/Qv2ray/QvPlugin-SSR/releases/
+    Qv2ray Trojan插件下载：https://github.com/Qv2ray/QvPlugin-Trojan/releases
+    Qv2ray Trojan-go插件下载：https://github.com/Qv2ray/QvPlugin-Trojan-Go/releases/
+    Trojan-go核心下载：https://github.com/p4gefau1t/trojan-go/releases/download/v0.8.2/trojan-go-darwin-amd64.zip 
+    Qv2ray NaiveProxy插件下载：https://github.com/Qv2ray/QvPlugin-NaiveProxy/releases/
+    Qv2ray-Command插件：https://github.com/Qv2ray/QvPlugin-Command/releases/tag/v3.0.0-pre3 
+
+注意：上面插件下载放入到/Users/mclitao/Library/Preferences/qv2ray/plugin
